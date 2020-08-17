@@ -6,4 +6,4 @@ Repository Purpose: Backend for NuBay
 
 Authors: Saif Billah, Andre Dahan, and Ronit Sharma
 
-Technologies used: Java Persistence API, MySQL, Heroku
+Technologies used: Java Persistence API, Spring, MySQL, Heroku
